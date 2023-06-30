@@ -5,6 +5,6 @@ in this directory you can find the notebooks for data analysis used for single c
 # 2- bulk rna-seq
 there is one notebook that shows how use Deseq2 package for bulk rna samples.
 # 3- milti omics
-here I will show how to use combined scRNA-seq and single cell chromatin accessibility (scATAC-seq) to create gene regulatory networks.
+here I will show how to use combined scRNA-seq and single cell chromatin accessibility (scATAC-seq) data to create gene regulatory networks.
 # 4- shiny app
-this is a development of ShinyCell package and it gives you an example i spatial ATAC-seq data analysis.
+this is a development of ShinyCell package and it gives you an example in spatial ATAC-seq data analysis.

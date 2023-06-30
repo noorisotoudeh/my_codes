@@ -5,6 +5,6 @@ in this directory you can find the notebooks for data analysis used for single c
 # 2- bulk rna-seq
 Deseq2 and edgeR are two well known packages that provides methods to test for differential gene expressions. The notebook contains DGE analysis using Deseq2 package for bulk rna samples.
 # 3- milti omics
-here I will show how to use combined scRNA-seq and single cell chromatin accessibility (scATAC-seq) data to create gene regulatory networks using scenic+ package.
+here I will show how to use combined scRNA-seq and single cell chromatin accessibility (scATAC-seq) data to create gene regulatory networks using scenic+ package. The final outputs can be displayed in cytoscape (desktop/web version).
 # 4- shiny app
 this is a development of ShinyCell package and it gives you an example in spatial ATAC-seq data analysis.

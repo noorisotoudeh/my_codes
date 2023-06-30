@@ -7,4 +7,4 @@ there is one notebook that shows how use Deseq2 package for bulk rna samples.
 # 3- milti omics
 here I will show how to use combined scRNA-seq and single cell chromatin accessibility (scATAC-seq) to create gene regulatory networks.
 # 4- shiny app
-this is a development of shinycell package and it gives you an example i spatial ATAC-seq data analysis.
+this is a development of ShinyCell package and it gives you an example i spatial ATAC-seq data analysis.

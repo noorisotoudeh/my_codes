@@ -7,4 +7,4 @@ Deseq2 and edgeR are two well known packages that provides methods to test for d
 # 3- milti omics
 here I will show how to use combined scRNA-seq and single cell chromatin accessibility (scATAC-seq) data to create gene regulatory networks using scenic+ package. The final outputs can be displayed in cytoscape (desktop/web version).
 # 4- shiny app
-this is a development of ShinyCell package and it includes the code to prepare required server and interface files. 
+this is a development of ShinyCell package and it includes the code to prepare required server and interface files. Also Docker file to push into the could based platform included in.

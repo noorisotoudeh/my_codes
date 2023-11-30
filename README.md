@@ -1,4 +1,4 @@
-# Qiagen
+
 This repository provides example codes used for some basic and advanced data analysis in ...
 # 1- single cell rna-seq
 in this directory you can find the notebooks for data analysis used for single cell rna-seq data in [ETP-ALL](https://ashpublications.org/blood/article/137/18/2463/474247/Single-cell-RNA-seq-reveals-developmental) or [myeloma](https://www.nature.com/articles/s41556-021-00766-y) paper. Note that, since these analysis has been done when popular package Seurat was not as developed as what it is now, the functions like SCTransform didn't use and instead SingleCellExperiment objects and its related packages applied for the most of analysis.

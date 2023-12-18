@@ -21,11 +21,7 @@ from latch.types import (
 
 from wf.upload_to_registry import upload_to_registry, Run
 
-
-class Genome(Enum):
-    mm10 = 'mm10'
-    hg38 = 'hg38'
-
+print('no need to select genome')
 
 @custom_task(cpu=62, memory=384, storage_gib=500)
 def neighborhood_task(
